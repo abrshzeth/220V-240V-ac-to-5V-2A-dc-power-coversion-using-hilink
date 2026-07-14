@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1","1","220u","","","","Capacitor_THT:CP_Radial_D10.0mm_P5.00mm","~"
+"F1","1","40011000000","","","","40011000000:40011000000","40011000000"
+"H1,H2,H3,H4","4","MountingHole_Pad","","Excluded from BOM","","MountingHole:MountingHole_2.2mm_M2_DIN965_Pad_TopOnly","~"
+"PS1","1","HLK-10M05","","","","Converter_ACDC:Converter_ACDC_Hi-Link_HLK-10Mxx","http://h.hlktech.com/download/ACDC%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%9710W%E7%B3%BB%E5%88%97/1/%E6%B5%B7%E5%87%8C%E7%A7%9110W%E7%B3%BB%E5%88%97%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%97%E8%A7%84%E6%A0%BC%E4%B9%A6V1.8.pdf"
+"RV1","1","Varistor","","","","Varistor:RV_Disc_D12mm_W7.5mm_P7.5mm","~"
